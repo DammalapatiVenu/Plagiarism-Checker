@@ -1,1 +1,2 @@
 # Plagiarism-Checker
+Now a day’s plagiarism i.e., copying from others work and using it without any permission from the right owner has become so common that so many people do that and publish documents on their own name which is a crime. So as many software tools exist to find out plagiarism and detect that in any documents if something is copied or not. We have also seen this as a major problem in academics where students of UG, PG and PhD courses copying some part of original document.<br>
